@@ -39,7 +39,6 @@ def main():
     printResults(initial, minParkNum, solution, pCount, pCost, parkNum)
 
 def printResults(initial, minParkNum, solution, pCount, pCost, parkNum):
-    print("Ozturk, Asude, A20428174 solution:")
     print("Initial state: ", initial)
     print("Minimum number of parks: ", minParkNum)
     print()
